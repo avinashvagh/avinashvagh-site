@@ -17,7 +17,9 @@ body {
 .link {
   padding: 0.5rem 1rem;
   text-decoration: none;
-  color: #bfdbfe;
+  color: gray;
+  font-weight: bold;
+  border-radius: 0.5;
 }
 
 .list-item-inline {
@@ -93,9 +95,14 @@ body {
   text-align: center;
 }
 
+.btnx {
+  background-color: #bfdbfe;
+  border-radius: 0.5rem;
+}
+
 /* projects */
 .spanx {
-  color: #bfdbfe;
+  color: #74808f;
   font-weight: 700;
 }
 
