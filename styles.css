@@ -95,9 +95,15 @@ body {
   text-align: center;
 }
 
+button:hover {
+  background-color: aliceblue;
+}
 .btnx {
   background-color: #bfdbfe;
   border-radius: 0.5rem;
+  padding: 7px;
+  cursor: pointer;
+  border: 1rem;
 }
 
 /* projects */
