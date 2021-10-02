@@ -20,6 +20,7 @@ body {
   color: gray;
   font-weight: bold;
   border-radius: 0.5;
+  margin: 1rem;
 }
 
 .list-item-inline {
@@ -128,6 +129,7 @@ footer {
 .p-link {
   text-decoration: none;
   padding: 0.5rem 1 rem;
+  margin: 1rem;
 }
 
 .footer .p-link {
