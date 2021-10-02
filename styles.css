@@ -10,6 +10,13 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+a.link {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  box-sizing: border-box;
+  color: white;
+}
+
 .non-bullet {
   list-style: none;
 }
